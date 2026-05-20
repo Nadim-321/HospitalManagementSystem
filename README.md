@@ -1,4 +1,4 @@
 # HospitalManagementSystem
 This is hospital management system for patients
 <br>
-Author-> Nadim
+Author-> Nadim naiyer
